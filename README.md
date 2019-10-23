@@ -13,3 +13,8 @@ rules: [
   }
 ]
 ```
+
+### Roadmap
+
+- `cpselvis/inline-html-loader`
+- `hxfdarling/html-inline-assets-loader`
