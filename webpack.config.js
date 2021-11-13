@@ -11,7 +11,7 @@ module.exports = {
         test: /\.html$/,
         use: [
           { loader: 'file-loader', options: { name: '[name].[ext]' }},
-          { loader: require('path').resolve('./lib/index') }
+          { loader: require('path').resolve('./lib/index.cjs') }
         ]
       }
     ]
