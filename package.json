@@ -18,11 +18,11 @@
   },
   "dependencies": {
     "inline-css": "^3.0.0",
-    "loader-utils": "^1.2.3",
+    "loader-utils": "^3.2.1",
     "schema-utils": "^2.5.0"
   },
   "devDependencies": {
-    "file-loader": "^4.2.0",
+    "file-loader": "^6.2.0",
     "webpack": "^5.64.0"
   },
   "keywords": [
